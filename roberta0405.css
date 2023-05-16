@@ -1,0 +1,139 @@
+
+body{
+	font-family:"LucidaGrande","LucidaSansUnicode",Verdana,
+	sans-serif;
+	line-height:1.6;
+	}
+
+.container{ 
+margin:0 auto; 
+width:960px;
+}
+
+	
+
+.place{
+	border-color: #008080;
+	border: 1px solid #008080;
+	margin-bottom: 0px;
+	padding: 10px;
+	}
+	
+.place h2{
+	border-bottom: 1px dashed #008080;
+	margin: 0;
+	}
+	
+body{
+	background: #20B2AA;
+	line-height: 1.6;
+	}
+	
+.place {
+	background-color: #40E0D0;
+	margin-bottom: 20px;
+	padding: 10px;
+	}
+	
+h1 {
+ color:	#2F4F4F;
+}
+
+h2 {
+ color:  #008B8B;
+}
+
+h3 {
+ color:  #2F4F4F
+}
+ 
+.place img {
+	border: 4px double #008B8B;
+	float: left;
+	margin: 10px 20px 0 0;
+	padding: 2px;
+	width: 200px;
+	
+	}
+	
+
+.place .imagens {
+	
+	float: left;
+	margin: 10px 20px 0 0;
+	width: 200px;
+	padding: 2px;
+	
+	}
+	
+	
+.clear {
+	clear: both;
+	}
+
+.pe {
+	font-size: 12px;
+	text-align: center;
+	}
+	
+.barra {
+	background-color: #48D1CC;
+	border: 3px dotted #008080;
+	padding: 10px;
+	float: right;
+	width: 260px;
+	margin-bottom: 20px;
+	}
+	
+.barra h3 {
+	font-size: 14px;
+	margin-top: 0;
+	}
+	
+.barra ol {
+	font-size: 12px;
+	}
+	
+.places {
+	float: left;
+	width: 660px;
+	}
+
+h1 a { 
+	color: #2F4F4F;
+	text-decoration: none; 
+	}
+	
+h1 a:hover { 
+	background-color: 	#C71585; 
+	color: 	#FFC0CB; 
+	}
+	
+.link {
+	font-size: 14px;
+	}
+	
+a {
+	color: #C71585;
+	}
+	
+.nota {
+	background-color:	#57F5E7;
+	border: 3px dotted #3CADA3;
+	float: right;
+	}
+	
+.nota {
+	width: 350px;
+	margin-right: 10px;
+	text-align: center;
+	}
+	
+.barra img {
+	border: 4px double #008B8B;
+	margin: 10px 0 0 20px;
+	padding: 2px;
+	width: 200px;
+	
+	}
+
